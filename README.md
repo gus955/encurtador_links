@@ -4,8 +4,8 @@
 ![image](https://github.com/gus955/encurtador_links/assets/117479202/f591ffe3-6589-4c0c-8b77-2bdd6571fb40)
 
 Tecnologias que foram utilizadas:
-*HTML & CSS
-*JS
+<p>HTML & CSS</p>
+<p>JS</p>
 
 Projeto:
 
