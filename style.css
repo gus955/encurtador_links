@@ -38,7 +38,8 @@ body *{
 }
 
 #container{
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     border: px solid snow;
     border-radius: 5px;
     margin:56px auto 0;
