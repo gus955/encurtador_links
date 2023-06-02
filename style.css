@@ -180,3 +180,13 @@ footer p{
     font-size:12px;
     font-weight:300;
 }
+
+@media (min-width: 700px){
+    :root{
+        --bg-url: url(./assets/background/bg-desktop.jpg);
+    }
+
+    .light{
+        --bg-url: url(./assets/background/bg-desktop-light.jpg);
+    }
+}
