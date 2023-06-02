@@ -97,6 +97,10 @@ body *{
     animation: slide-in 0.3s forwards;
 }
 
+#switch button:hover{
+    outline:8px solid var(--hover-color);
+}
+
 #switch span{
     display:block;
     height:24px;
